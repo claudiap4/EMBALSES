@@ -1,4 +1,4 @@
-# EMBALSES
+# Biblioteca funciones estadísticas
 #include <stdio.h>
 #include <string.h>
 #include <float.h>
